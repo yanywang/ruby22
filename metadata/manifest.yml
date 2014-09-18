@@ -16,7 +16,7 @@ Compatible-Versions:
 - 0.0.16
 - 0.0.17
 - 0.0.18
-Cartridge-Vendor: redhat
+Cartridge-Vendor: wyy
 Categories:
 - service
 - ruby
@@ -66,3 +66,4 @@ Version-Overrides:
     - ruby-1.8
     - ruby
     - ruby(version) = 1.8
+Source-Url: git://github.com/yanywang/ruby22.git
