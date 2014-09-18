@@ -66,4 +66,5 @@ Version-Overrides:
     - ruby-1.8
     - ruby
     - ruby(version) = 1.8
+Install-Build-Required: false
 Source-Url: git://github.com/yanywang/ruby22.git
